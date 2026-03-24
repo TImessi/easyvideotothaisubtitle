@@ -16,7 +16,7 @@
 
 ## 🚀 การติดตั้ง (Installation)
 
-1. คลอนโปรเจกต์นี้:
+1. โคลนโปรเจกต์นี้:
 ```bash
-git clone [https://github.com/TImessi/easyvideotothaisubtitle.git]
+git clone https://github.com/TImessi/easyvideotothaisubtitle.git
 cd ชื่อโปรเจกต์ของคุณ
