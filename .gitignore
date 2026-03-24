@@ -1,0 +1,18 @@
+# Python environment
+.venv/
+__pycache__/
+*.pyc
+
+# Large Files & Media
+*.mp4
+*.mkv
+*.mov
+*.wav
+*.mp3
+
+# AI Models (ปกติจะเก็บใน ~/.cache/whisper แต่กันไว้เผื่อคุณโหลดมาลงในโฟลเดอร์)
+*.pt
+
+# Result Files
+script_with_time.txt
+*.txt
